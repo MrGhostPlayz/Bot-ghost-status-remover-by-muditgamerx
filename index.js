@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to Royal RewardZ: http://localhost:${port}`);
+  console.log(`🔗 Listening to BloodMoon Smp: http://localhost:${port}`);
   console.log(`🔗 Powered By Mr_MuditGamerX`);
 });
 
 
-const statusMessages = ["Watching Royal RewardZ","Doing Payout's"];
+const statusMessages = ["Watching BloodMoon Smp","Playing Minecraft"];
 
 
 let currentIndex = 0;
